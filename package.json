@@ -32,6 +32,8 @@
     "rollup-plugin-babel": "^4.3.2",
     "run-sequence": "^2.2.1",
     "vinyl-paths": "^2.1.0"
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   },
   "dependencies": {}
 }
+
